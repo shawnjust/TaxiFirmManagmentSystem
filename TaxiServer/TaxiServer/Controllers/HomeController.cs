@@ -11,7 +11,7 @@ namespace TaxiServer.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to ASP.NET MVC!";
+            ViewData["Message"] = "首页";
 
             return View();
         }

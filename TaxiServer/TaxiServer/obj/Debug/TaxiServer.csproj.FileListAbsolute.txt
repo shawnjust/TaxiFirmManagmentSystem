@@ -1,0 +1,5 @@
+C:\myProjectForDB\TaxiFirmManagmentSystem\TaxiServer\TaxiServer\bin\Content\SD流程图.png
+C:\myProjectForDB\TaxiFirmManagmentSystem\TaxiServer\TaxiServer\bin\TaxiServer.dll
+C:\myProjectForDB\TaxiFirmManagmentSystem\TaxiServer\TaxiServer\bin\TaxiServer.pdb
+C:\myProjectForDB\TaxiFirmManagmentSystem\TaxiServer\TaxiServer\obj\Debug\TaxiServer.dll
+C:\myProjectForDB\TaxiFirmManagmentSystem\TaxiServer\TaxiServer\obj\Debug\TaxiServer.pdb

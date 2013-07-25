@@ -6,30 +6,6 @@ to use a different color start by replacing all instances of
 body
 {
     background-color: #5c87b2;
-    font-size: .75em;
-    font-family: Verdana, Helvetica, Sans-Serif;
-    margin: 0;
-    padding: 0;
-    color: #696969;
-}
-
-a:link
-{
-    color: #034af3;
-    text-decoration: underline;
-}
-a:visited
-{
-    color: #505abc;
-}
-a:hover
-{
-    color: #1d60ff;
-    text-decoration: none;
-}
-a:active
-{
-    color: #12eb87;
 }
 
 p, ul
@@ -37,7 +13,6 @@ p, ul
     margin-bottom: 20px;
     line-height: 1.6em;
 }
-
 /* HEADINGS   
 ----------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6
@@ -270,24 +245,12 @@ div#title
     margin:10px;
     color:White;
 }
-
-#logindisplay a:link
+#logindisplay a
 {
-    color: white;
-    text-decoration: underline;
+    color:White;    
 }
 
-#logindisplay a:visited
-{
-    color: white;
-    text-decoration: underline;
-}
 
-#logindisplay a:hover
-{
-    color: white;
-    text-decoration: none;
-}
 
 /* Styles for validation helpers
 -----------------------------------------------------------*/
